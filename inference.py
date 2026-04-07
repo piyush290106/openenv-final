@@ -58,7 +58,7 @@ def main():
                 flush=True
             )
 
-        success = True
+        success = done
 
     except Exception as e:
         print(
