@@ -1,0 +1,7 @@
+name: openenv-ecommerce
+env: openenv-ecommerce
+task: inventory_control
+entrypoint: inference.py
+model: openenv-agent
+framework: openai
+description: OpenEnv ecommerce environment submission
